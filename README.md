@@ -1,7 +1,3 @@
-![License](https://img.shields.io/github/license/jorgegorka/siete-valles.svg)
-![Code climate](https://img.shields.io/codeclimate/maintainability/jorgegorka/siete-valles.svg)
-[![CircleCI](https://circleci.com/gh/jorgegorka/siete-valles.svg?style=svg)](https://app.circleci.com/projects/project-dashboard/github/jorgegorka/)
-
 # Siete Valles
 
 ##  Siete Valles is an event tracking and gamification engine.
